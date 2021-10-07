@@ -44,3 +44,15 @@
 
 ## 4. Flask 설치
 > pip install Flask
+
+## 5. python-dotenv 설치
+> pip install python-dotenv
++ 이후 root 디렉토리에 .flaskenv 생성 후 아래와 같이 입력
+> FLASK_APP = [app이름]
+> 
+> FLASK_ENV = development
+
+
+
+
+
